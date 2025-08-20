@@ -105,7 +105,7 @@ Models applied:
 ![Prophet Forecast Example](prophet-forecast.png)  
 
 ### Model Comparison (RMSE)
-![RMSE Comparison](Model Comparison — RMSE.png)  
+![RMSE Comparison](Model_Comparison—RMSE.png)  
 
 ---
 
