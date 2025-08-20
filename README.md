@@ -102,10 +102,10 @@ Models applied:
 ## 📊 Visualization Examples  
 
 ### Prophet Forecast (Store Example)
-![Prophet Forecast Example](link-to-prophet-forecast.png)  
+![Prophet Forecast Example](prophet-forecast.png)  
 
 ### Model Comparison (RMSE)
-![RMSE Comparison](link-to-bar-chart.png)  
+![RMSE Comparison](Model Comparison — RMSE.png)  
 
 ---
 
